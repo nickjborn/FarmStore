@@ -1,0 +1,6 @@
+D:\GrandCircus\GroupWork\FarmStore\obj\Debug\netcoreapp2.2\FarmStore.csprojAssemblyReference.cache
+D:\GrandCircus\GroupWork\FarmStore\obj\Debug\netcoreapp2.2\FarmStore.csproj.CoreCompileInputs.cache
+D:\GrandCircus\GroupWork\FarmStore\obj\Debug\netcoreapp2.2\FarmStore.RazorAssemblyInfo.cache
+D:\GrandCircus\GroupWork\FarmStore\obj\Debug\netcoreapp2.2\FarmStore.RazorAssemblyInfo.cs
+D:\GrandCircus\GroupWork\FarmStore\obj\Debug\netcoreapp2.2\FarmStore.AssemblyInfoInputs.cache
+D:\GrandCircus\GroupWork\FarmStore\obj\Debug\netcoreapp2.2\FarmStore.AssemblyInfo.cs
